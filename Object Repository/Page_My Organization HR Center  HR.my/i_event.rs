@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_event</name>
+   <tag></tag>
+   <elementGuidId>9154692a-70d9-4ee4-bd0a-e97f6e966768</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.q-field.row.no-wrap.items-start.q-field--outlined.q-field--float.q-field--labeled.q-field--auto-height.q-field--focused.q-field--highlighted.cursor-pointer > div.q-field__inner.relative-position.col.self-stretch > div.q-field__control.relative-position.row.no-wrap > div.q-field__append.q-field__marginal.row.no-wrap.items-center > i.q-icon.notranslate.material-icons</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Nationality'])[1]/preceding::i[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>q-icon notranslate material-icons</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>event</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;desktop no-touch body--light q-body--dialog q-body--prevent-scroll&quot;]/div[6]/div[@class=&quot;q-dialog fullscreen no-pointer-events q-dialog--modal&quot;]/div[@class=&quot;q-dialog__inner flex no-pointer-events q-dialog__inner--maximized q-dialog__inner--standard fixed-full flex-center&quot;]/div[@class=&quot;q-layout-container overflow-hidden bg-white&quot;]/div[@class=&quot;absolute-full&quot;]/div[@class=&quot;scroll&quot;]/div[@class=&quot;q-layout q-layout--containerized&quot;]/div[@class=&quot;q-page-container bg-blue-grey-1&quot;]/main[@class=&quot;q-page spa-dialog bg-white row&quot;]/div[@class=&quot;col q-pa-md&quot;]/div[@class=&quot;q-gutter-y-sm full-height&quot;]/div[@class=&quot;q-tab-panels q-panel-parent full-width full-height&quot;]/div[@class=&quot;q-panel scroll&quot;]/div[@class=&quot;q-tab-panel q-pa-none&quot;]/div[@class=&quot;q-gutter-y-sm&quot;]/div[2]/label[@class=&quot;q-field row no-wrap items-start q-field--outlined q-field--float q-field--labeled q-field--auto-height q-field--focused q-field--highlighted cursor-pointer&quot;]/div[@class=&quot;q-field__inner relative-position col self-stretch&quot;]/div[@class=&quot;q-field__control relative-position row no-wrap&quot;]/div[@class=&quot;q-field__append q-field__marginal row no-wrap items-center&quot;]/i[@class=&quot;q-icon notranslate material-icons&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nationality'])[1]/preceding::i[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='event']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label/div/div/div[2]/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'event' or . = 'event')]</value>
+   </webElementXpaths>
+</WebElementEntity>

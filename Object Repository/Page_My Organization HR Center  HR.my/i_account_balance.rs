@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_account_balance</name>
+   <tag></tag>
+   <elementGuidId>6b75fe2b-377a-460b-b74f-cf04263d0d33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick Entry'])[1]/following::i[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>q-icon notranslate material-icons q-tab__icon</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>account_balance</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;desktop no-touch body--light q-body--dialog q-body--prevent-scroll&quot;]/div[6]/div[@class=&quot;q-dialog fullscreen no-pointer-events q-dialog--modal&quot;]/div[@class=&quot;q-dialog__inner flex no-pointer-events q-dialog__inner--maximized q-dialog__inner--standard fixed-full flex-center&quot;]/div[@class=&quot;q-layout-container overflow-hidden bg-white&quot;]/div[@class=&quot;absolute-full&quot;]/div[@class=&quot;scroll&quot;]/div[@class=&quot;q-layout q-layout--containerized&quot;]/div[@class=&quot;q-page-container bg-blue-grey-1&quot;]/main[@class=&quot;q-page spa-dialog bg-white row&quot;]/div[@class=&quot;col q-pa-md&quot;]/div[@class=&quot;q-gutter-y-sm full-height&quot;]/footer[@class=&quot;q-footer q-layout__section--marginal fixed-bottom bg-blue-grey-1 text-black hr-tab-issue&quot;]/div[@class=&quot;q-toolbar row no-wrap items-center spa-dialog bg-white q-header--bordered q-footer--bordered text-primary q-pa-none&quot;]/div[@class=&quot;q-tabs row no-wrap items-center q-tabs--not-scrollable q-tabs--horizontal q-tabs__arrows--outside full-width bg-light-green-1 text-blue-grey-7&quot;]/div[@class=&quot;q-tabs__content row no-wrap items-center self-stretch hide-scrollbar relative-position q-tabs__content--align-justify&quot;]/div[@class=&quot;q-tab relative-position self-stretch flex flex-center text-center q-tab--inactive q-focusable q-hoverable cursor-pointer&quot;]/div[@class=&quot;q-tab__content self-stretch flex-center relative-position q-anchor--skip non-selectable column&quot;]/i[@class=&quot;q-icon notranslate material-icons q-tab__icon&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick Entry'])[1]/following::i[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email (for Employee Web Account invitation)'])[1]/following::i[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div/div/div/div[4]/div[2]/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'account_balance' or . = 'account_balance')]</value>
+   </webElementXpaths>
+</WebElementEntity>
